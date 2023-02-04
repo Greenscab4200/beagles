@@ -152,6 +152,28 @@ h2 {
 		
 }
 
+form {
+	background-color: #e4f2ea;
+	padding: 1em;
+	text-align: right;
+	
+}
+
+form ledgend{
+	padding-right: 8em;
+}
+
+form ul{
+	padding-left: 5em;
+}
+
+form li{
+	padding-right: 16em;
+	list-style-type: none;
+}
+
+
+
 blockquote {
 	font-size: 3em;
 	color: #734f2f;
